@@ -3,8 +3,7 @@
 <div align="center">
 <h1>Yousef Amirghofran</h1> 
 
-![photo_2025-05-01 22 23 11](https://github.com/user-attachments/assets/b21e1a84-1969-447c-b668-510561d8ce08)
-
+<img src="https://github.com/user-attachments/assets/b21e1a84-1969-447c-b668-510561d8ce08" height="300" />
 
 <a href="https://www.linkedin.com/in/yamirghofran" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%232C3454.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
